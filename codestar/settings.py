@@ -33,6 +33,7 @@ DEBUG = True
 ALLOWED_HOSTS = ['code-institute-django-blog.herokuapp.com', 'localhost']
 
 
+
 # Application definition
 
 INSTALLED_APPS = [
