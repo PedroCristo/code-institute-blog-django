@@ -9,6 +9,9 @@ body {
     color: #4A4A4F;
 }
 
+.test{
+    color: red !important;
+}
 .red-o {
     color: #E84610;
 }
